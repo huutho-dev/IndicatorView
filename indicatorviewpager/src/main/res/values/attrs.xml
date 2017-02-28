@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+
+        <attr name="tnh_radius_selected" format="dimension" />
+        <attr name="tnh_radius_unselected" format="dimension" />
+
+        <attr name="tnh_color_selected" format="color" />
+        <attr name="tnh_color_unselected" format="color" />
+
+        <attr name="tnh_distance" format="dimension" />
+        
+    </declare-styleable>
+</resources>

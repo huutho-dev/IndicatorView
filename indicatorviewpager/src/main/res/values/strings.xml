@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IndicatorViewPager</string>
+    <string name="viewpage_less_page">Pages must equal or larger than 2</string>
+</resources>
